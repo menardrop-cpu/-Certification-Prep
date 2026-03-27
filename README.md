@@ -1,4 +1,4 @@
-# -Certification-Prep
+# Certification-Prep
 Study notes for my cybersecurity certification path.
 ## Target certifications
 
